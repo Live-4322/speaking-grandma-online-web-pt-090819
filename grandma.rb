@@ -17,7 +17,7 @@ elsif phrase == "WHAT?"
   "NO, NOT SINCE 1938!"
 else 
   puts "Listen to Grandma talk about the old days"
-  
+  "Listen to Grandma talk about the old days"
 end
 
   
